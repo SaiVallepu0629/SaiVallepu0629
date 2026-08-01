@@ -5,8 +5,8 @@
 <h3 align="center">🚀 Senior Data Scientist & AI Agents Engineer | Hyderabad, India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaiVallepu0629&label=Profile%20views&color=0e75b6&style=flat" alt="sumitsartale4952" />
-  <img src="https://img.shields.io/badge/Fresher%2B%20Years-brightgreen?style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=SaiVallepu0629&label=Profile%20views&color=0e75b6&style=flat" alt="SaiVallepu0629" />
+  <img src="https://img.shields.io/badge/Fresher-brightgreen?style=flat" />
   <img src="https://img.shields.io/badge/Focus-AI%20Agents%20%26%20LLMs-blue?style=flat" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat" />
 </p>
@@ -76,11 +76,11 @@ ai_stack = {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sumitsartale4952&show_icons=true&theme=tokyonight&locale=en" alt="Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitsartale4952&show_icons=true&theme=tokyonight&layout=compact" alt="Top Langs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaiVallepu0629&show_icons=true&theme=tokyonight&layout=compact" alt="Top Langs" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitsartale4952&theme=tokyonight" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiVallepu0629&theme=tokyonight" alt="Streak Stats"/>
 </p>
 
 
