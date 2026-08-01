@@ -5,8 +5,8 @@
 <h3 align="center">🚀 Senior Data Scientist & AI Agents Engineer | Hyderabad, India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumitsartale4952&label=Profile%20views&color=0e75b6&style=flat" alt="sumitsartale4952" />
-  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-brightgreen?style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=SaiVallepu0629&label=Profile%20views&color=0e75b6&style=flat" alt="sumitsartale4952" />
+  <img src="https://img.shields.io/badge/Fresher%2B%20Years-brightgreen?style=flat" />
   <img src="https://img.shields.io/badge/Focus-AI%20Agents%20%26%20LLMs-blue?style=flat" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat" />
 </p>
@@ -17,14 +17,14 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 **4+ years** of experience in **Data Science, Machine Learning & AI Agents**
+- 🔭 **Fresher **Data Science, Machine Learning & AI Agents**
 - 🤖 Specialized in building **Autonomous AI Agents** using LangChain, LangGraph & CrewAI
 - 🧠 Working with **LLMs** (GPT-4, Claude, Gemini) for production-grade applications
 - 🌱 Currently deepening expertise in **Agentic AI**, **RAG Pipelines** & **Django REST APIs**
 - 🏆 Experienced in **end-to-end ML pipelines** — from EDA to deployment
 - ☁️ Hands-on with **Azure ML**, cloud deployments & scalable data architecture
 - 📊 Passionate about turning raw data into **actionable business insights**
-- 📫 Reach me at: **ssartale6@gmail.com**
+- 📫 Reach me at: **saivallepu.01234@gmail.com**
 - 📍 Based in **Hyderabad, India**
 
 ---
