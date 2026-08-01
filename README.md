@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+SaiVallepu0629;Data+Scientist+%7C+AI+Engineer;Fresher+Student;Building+Intelligent+Systems" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 Senior Data Scientist & AI Agents Engineer | Hyderabad, India</h3>
+<h3 align="center">🚀  Data Scientist & AI Agents Engineer | Hyderabad, India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SaiVallepu0629&label=Profile%20views&color=0e75b6&style=flat" alt="SaiVallepu0629" />
