@@ -123,7 +123,7 @@ ai_stack = {
 
 <p align="center">
   <i>"Data is the new oil, but AI Agents are the refinery."</i><br/>
-  <b>— Sumit Sartale</b>
+  <b>— Sai Vallepu</b>
 </p>
 
 <p align="center">
