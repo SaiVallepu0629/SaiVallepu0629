@@ -75,7 +75,7 @@ ai_stack = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumitsartale4952&show_icons=true&theme=tokyonight&locale=en" alt="Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SaiVallepu0629&show_icons=true&theme=tokyonight&locale=en" alt="Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaiVallepu0629&show_icons=true&theme=tokyonight&layout=compact" alt="Top Langs" height="180"/>
 </p>
 
@@ -100,7 +100,7 @@ ai_stack = {
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitsartale4952&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiVallepu0629&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </p>
 
 ---
@@ -108,16 +108,13 @@ ai_stack = {
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sumit-sunil-sartale-469791232/" target="_blank">
+  <a href="https://www.linkedin.com/in/sai-vallepu-4b6a07298/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.kaggle.com/sunnysartale" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="mailto:ssartale6@gmail.com">
+   href="mailto:saivallepu.01234@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/sumitsartale4952" target="_blank">
+  <a href="https://github.com/SaiVallepu0629" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
